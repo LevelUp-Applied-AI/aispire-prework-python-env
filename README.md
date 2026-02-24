@@ -1,6 +1,6 @@
-# AI.SPIRE Pre-Work — Phase 2: Python Toolchain
+# AI.SPIRE Pre-Work — Python Toolchain
 
-This repository is your workspace for Pre-Work Phase 2 (Days 3–5).
+This repository is your workspace for Pre-Work Days 3–5.
 
 | Day | PR | Topic |
 |-----|-----|-------|
